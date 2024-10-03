@@ -29,14 +29,16 @@ body {
 
 .div_row1 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-top: 4rem;
+    padding: 0 17rem;
 }
 
 .div_row2 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 4rem;
+    padding: 0 10rem;
 }
 
 .pic {
